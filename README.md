@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Neha 👋
+# Hi, I'm Neha 
 
 ### I build ML systems and data science tools that run in production and support real clinical decisions.
 
@@ -18,15 +18,15 @@
 My work sits at the intersection of **machine learning, healthcare data, and production deployment**. I don't just build models — I ship them. Everything I build is used daily by real teams making real decisions.
 
 At **NHS Grampian**, I've delivered:
-- 🧠 A **63-parameter patient risk-scoring model** adopted across **6 NHS Scotland Boards** for clinical risk stratification
-- 🔍 An **automated anomaly-detection pipeline** for controlled drug reporting — replaced a third-party service, saves **£15,000/year**
-- 🏥 A **ward planning solution** saving **£30,000/year**, deployed across 6 NHS Boards
+-  A **63-parameter patient risk-scoring model** adopted across **6 NHS Scotland Boards** for clinical risk stratification
+-  An **automated anomaly-detection pipeline** for controlled drug reporting — replaced a third-party service, saves **£15,000/year**
+-  A **ward planning solution** saving **£30,000/year**, deployed across 6 NHS Boards
 
 To push further into ML engineering, I independently built:
 
 ---
 
-## 📌 Featured project — Patient Condition Prediction API
+##  Featured project — Patient Condition Prediction API
 
 **End-to-end ML application: from training to containerised REST API**
 
@@ -41,11 +41,11 @@ Clinical data → Scikit-learn classifier → FastAPI REST API → Docker contai
 
 **Tech:** `Python` `Scikit-learn` `Pandas` `FastAPI` `Docker` `Uvicorn` `Pydantic` `Joblib`
 
-➡️ [View the repo](https://github.com/NehaRaj8)
+ [View the repo](https://github.com/NehaRaj8)
 
 ---
 
-## 🛠️ Tech stack
+##  Tech stack
 
 **Machine Learning & Data Science**
 
@@ -69,7 +69,7 @@ Clinical data → Scikit-learn classifier → FastAPI REST API → Docker contai
 
 ---
 
-## 🎓 Background
+##  Background
 
 | | |
 |---|---|
@@ -79,16 +79,16 @@ Clinical data → Scikit-learn classifier → FastAPI REST API → Docker contai
 
 ---
 
-## 🏆 Highlights
+##  Highlights
 
 - 🇬🇧 **Steering Committee Member** — UK Digital Health and Care Innovation Accelerator (UKDHC) 2026 cohort
-- 🤝 **Scottish Tech Army Volunteer** — data analytics across civic projects
-- 📜 **Data Ethics, AI and Responsible Innovation** — edX certified
-- 🏥 **MRC Information Governance Training** — Medical Research Council
+-  **Scottish Tech Army Volunteer** — data analytics across civic projects
+- **Data Ethics, AI and Responsible Innovation** — edX certified
+-  **MRC Information Governance Training** — Medical Research Council
 
 ---
 
-## 🌱 What I'm building towards
+##  What I'm building towards
 
 I'm actively developing my ML engineering skills — moving from healthcare analytics into full ML lifecycle ownership: model training, API deployment, containerisation, and MLOps. Open to remote **Data Scientist**, **ML Engineer**, and **Health AI** roles in the UK.
 
