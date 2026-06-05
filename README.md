@@ -81,7 +81,7 @@ Clinical data → Scikit-learn classifier → FastAPI REST API → Docker contai
 
 ##  Highlights
 
-- 🇬🇧 **Steering Committee Member** — UK Digital Health and Care Innovation Accelerator (UKDHC) 2026 cohort
+-  **Steering Committee Member** — UK Digital Health and Care Innovation Accelerator (UKDHC) 2026 cohort
 -  **Scottish Tech Army Volunteer** — data analytics across civic projects
 - **Data Ethics, AI and Responsible Innovation** — edX certified
 -  **MRC Information Governance Training** — Medical Research Council
