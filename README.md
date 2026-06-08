@@ -18,7 +18,7 @@
 My work sits at the intersection of **machine learning, healthcare data, and production deployment**. I don't just build models — I ship them. Everything I build is used daily by real teams making real decisions.
 
 At **NHS Grampian**, I've delivered:
--  A **63-parameter patient risk-scoring model** adopted across **6 NHS Scotland Boards** for clinical risk stratification
+-  A **parameter patient risk-scoring model** adopted across **6 NHS Scotland Boards** for clinical risk stratification
 -  An **automated anomaly-detection pipeline** for controlled drug reporting — replaced a third-party service, saves **£15,000/year**
 -  A **ward planning solution** saving **£30,000/year**, deployed across 6 NHS Boards
 
