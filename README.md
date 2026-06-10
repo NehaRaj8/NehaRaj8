@@ -41,7 +41,7 @@ Clinical data → Scikit-learn classifier → FastAPI REST API → Docker contai
 
 **Tech:** `Python` `Scikit-learn` `Pandas` `FastAPI` `Docker` `Uvicorn` `Pydantic` `Joblib`
 
- [View the repo](https://github.com/NehaRaj8)
+ [View the repo](https://github.com/NehaRaj8/Learn_OOP)
 
 ---
 
