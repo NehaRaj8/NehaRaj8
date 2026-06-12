@@ -92,7 +92,7 @@ Clinical data → Scikit-learn classifier → FastAPI REST API → Docker contai
 
 I'm actively developing my ML engineering skills — moving from healthcare analytics into full ML lifecycle ownership: model training, API deployment, containerisation, and MLOps. Open to remote **Data Scientist**, **ML Engineer**, and **Health AI** roles in the UK.
 
-💬 Talk to me about: **anomaly detection · production ML deployment · healthcare AI · Python · MLOps**
+💬 Talk to me about: anomaly detection · production ML deployment · healthcare AI · Python · MLOps
 
 ---
 
